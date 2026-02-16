@@ -17,15 +17,20 @@
 
 ## 🧠 About Me  
 
-🔭 I build scalable backend applications using **Node.js, Express & MongoDB**  
 
-🌱 Continuously improving backend architecture, security & system design  
+🚀 I build scalable and secure backend applications using **Node.js, Express.js & MongoDB**  
 
-👯 Open to collaborate on Backend or MERN stack projects  
+🛠️ I specialize in designing robust **RESTful APIs, authentication systems, and optimized database structures**  
 
-💬 Ask me about **Node.js, Express.js, MongoDB, MySQL, JWT, REST APIs, HTML, CSS, Bootstrap, C & NPM**  
+🔐 Strong focus on **JWT authentication, RBAC, API security & performance optimization**  
 
-⚡ I enjoy building complete systems — from UI to backend logic  
+📦 Experienced with **NPM ecosystem, middleware architecture & backend best practices**  
+
+🧩 Passionate about writing **clean, maintainable, and production-ready code**  
+
+🌱 Continuously improving my skills in **system design, backend architecture & scalable application development**  
+
+💬 Ask me about **Node.js, Express.js, MongoDB, MySQL, REST APIs, JWT & Backend Development**  
 
 ---
 
