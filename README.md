@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Omkar Makani 👋</h1>
-<h3 align="center">🚀 Backend Developer | Node.js Specialist | Quick Learner</h3>
+<h3 align="center">🚀 Full Stack Developer | Node.js Specialist | Quick Learner</h3>
 
 <p align="center">
   <!-- <a href="https://github.com/Omkarmakani0003" style="text-decoration: none;">
